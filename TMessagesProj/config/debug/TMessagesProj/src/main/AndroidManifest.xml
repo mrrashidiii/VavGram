@@ -1,6 +1,3 @@
-Code
- Issues 0 Pull requests 0 Pulse
-TMessagesProj/src/main/AndroidManifest.xml
 <?xml version='1.0' encoding='utf-8' ?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="8545" android:versionName="M-4.10.10" package="ir.vavogram1.rashid" platformBuildVersionCode="24" platformBuildVersionName="7.0">
 	<uses-sdk android:minSdkVersion="14" android:targetSdkVersion="24" />
@@ -389,4 +386,3 @@ TMessagesProj/src/main/AndroidManifest.xml
 		</service>
 	</application>
 </manifest>
-Desktop version
