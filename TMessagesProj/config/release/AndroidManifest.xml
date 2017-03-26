@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="8543" android:versionName="M-4.00.00" package="ir.vavogram1.rashidi" platformBuildVersionCode="24" platformBuildVersionName="7.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="8545" android:versionName="M-4.10.10" package="ir.vavogram1.rashidi" platformBuildVersionCode="24" platformBuildVersionName="7.0">
 	<uses-sdk android:minSdkVersion="14" android:targetSdkVersion="24" />
 	<supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:resizeable="true" android:smallScreens="true" android:xlargeScreens="true" />
 	<uses-feature android:glEsVersion="0x20000" android:required="true" />
