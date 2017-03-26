@@ -11,5 +11,7 @@ UsageBeware of using the dev branch and uploading it to any markets, in many cas
 First of all, take a look at src/main/java/org/telegram/messenger/BuildVars.java and fill it with correct values. Import the root folder into your IDE (tested on Android Studio), then run project.
 
 LocalizationWe moved all translations to https://www.transifex.com/projects/p/telegram/. Please use it.
-Vavgram source code
+
+
+##Vavgram source code
 Mr.rashidii56@gmail.com
