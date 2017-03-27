@@ -1,4 +1,4 @@
-# VavGram
+# VavGram V 1.0.0
 Telegram messenger for AndroidTelegram is a messaging app with a focus on speed and security. It’s superfast, simple and free. This repo contains the official source code for Telegram App for Android.
 
 
@@ -14,4 +14,4 @@ LocalizationWe moved all translations to https://www.transifex.com/projects/p/t
 
 
 ##Vavgram source code
-Mr.rashidii56@gmail.com
+borhanrashidi1@gmail.com
